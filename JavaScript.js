@@ -1,1 +1,1 @@
-$(".display-3").text('Test')
+$('#time').append(date)
